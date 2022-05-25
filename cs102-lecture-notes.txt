@@ -1,0 +1,5 @@
+git status - To check status of the current project.
+git add - to stage the files
+git lock - to view the commit history
+git init - to initialise the mepty repository
+git push - to push the changes from the server
