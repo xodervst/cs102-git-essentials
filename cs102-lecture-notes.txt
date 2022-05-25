@@ -3,3 +3,11 @@ git add - to stage the files
 git lock - to view the commit history
 git init - to initialise the mepty repository
 git push - to push the changes from the server
+
+Git is a open source version control system and it enables you to store code, track revision history, merge code changes and revert to earlier code versions whenever we need. 
+Git stores the source code and all the history of development and we can create a copy of our source code known as a branch. We can work in parallel to the main version of the source code. After confirming the changes, we can merge it with the main version.
+
+Markdown - It is a markup language to create formatted texts using a plain text editor.
+
+VS Code - It is an excellent IDE to write code. It contains various extensions for formatting the code.
+
