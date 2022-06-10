@@ -1,3 +1,5 @@
+Name - Vaibhav Singh Tomar Roll Number - 2004238
+
 git status - To check status of the current project.
 git add - to stage the files
 git log - to view the commit history
