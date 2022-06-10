@@ -1,7 +1,7 @@
 git status - To check status of the current project.
 git add - to stage the files
-git lock - to view the commit history
-git init - to initialise the mepty repository
+git log - to view the commit history
+git init - to initialise the empty repository
 git push - to push the changes from the server
 
 Git is a open source version control system and it enables you to store code, track revision history, merge code changes and revert to earlier code versions whenever we need. 
