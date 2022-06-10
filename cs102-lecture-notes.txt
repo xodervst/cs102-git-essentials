@@ -9,5 +9,6 @@ Git stores the source code and all the history of development and we can create 
 
 Markdown - It is a markup language to create formatted texts using a plain text editor.
 
-VS Code - It is an excellent IDE to write code. It contains various extensions for formatting the code.
+VS Code is an excellent IDE to write code. It contains various extensions for formatting the code.
+
 
